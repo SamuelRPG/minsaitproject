@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\REPOSITORY\\Local\\minsaitproject\\src\\proyectoMinsait\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A7DBE6DD-0F27-4A50-893D-36A7FA5F5F41}|proyectoMinsait.csproj|c:\\users\\admin\\documents\\repository\\local\\minsaitproject\\src\\proyectominsait\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DBE6DD-0F27-4A50-893D-36A7FA5F5F41}|proyectoMinsait.csproj|solutionrelative:categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DBE6DD-0F27-4A50-893D-36A7FA5F5F41}|proyectoMinsait.csproj|c:\\users\\admin\\documents\\repository\\local\\minsaitproject\\src\\proyectominsait\\ubicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DBE6DD-0F27-4A50-893D-36A7FA5F5F41}|proyectoMinsait.csproj|solutionrelative:ubicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DBE6DD-0F27-4A50-893D-36A7FA5F5F41}|proyectoMinsait.csproj|c:\\users\\admin\\documents\\repository\\local\\minsaitproject\\src\\proyectominsait\\organizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DBE6DD-0F27-4A50-893D-36A7FA5F5F41}|proyectoMinsait.csproj|solutionrelative:organizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DBE6DD-0F27-4A50-893D-36A7FA5F5F41}|proyectoMinsait.csproj|c:\\users\\admin\\documents\\repository\\local\\minsaitproject\\src\\proyectominsait\\inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DBE6DD-0F27-4A50-893D-36A7FA5F5F41}|proyectoMinsait.csproj|solutionrelative:inscripcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A7DBE6DD-0F27-4A50-893D-36A7FA5F5F41}|proyectoMinsait.csproj|c:\\users\\admin\\documents\\repository\\local\\minsaitproject\\src\\proyectominsait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7DBE6DD-0F27-4A50-893D-36A7FA5F5F41}|proyectoMinsait.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DBE6DD-0F27-4A50-893D-36A7FA5F5F41}|proyectoMinsait.csproj|c:\\users\\admin\\documents\\repository\\local\\minsaitproject\\src\\proyectominsait\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DBE6DD-0F27-4A50-893D-36A7FA5F5F41}|proyectoMinsait.csproj|solutionrelative:evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DBE6DD-0F27-4A50-893D-36A7FA5F5F41}|proyectoMinsait.csproj|c:\\users\\admin\\documents\\repository\\local\\minsaitproject\\src\\proyectominsait\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DBE6DD-0F27-4A50-893D-36A7FA5F5F41}|proyectoMinsait.csproj|solutionrelative:usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7DBE6DD-0F27-4A50-893D-36A7FA5F5F41}|proyectoMinsait.csproj|c:\\users\\admin\\documents\\repository\\local\\minsaitproject\\src\\proyectominsait\\eventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7DBE6DD-0F27-4A50-893D-36A7FA5F5F41}|proyectoMinsait.csproj|solutionrelative:eventos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +42,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Inscripcion.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\REPOSITORY\\Local\\minsaitproject\\src\\proyectoMinsait\\Inscripcion.cs",
+              "RelativeDocumentMoniker": "Inscripcion.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\REPOSITORY\\Local\\minsaitproject\\src\\proyectoMinsait\\Inscripcion.cs",
+              "RelativeToolTip": "Inscripcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:49:11.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Organizador.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\REPOSITORY\\Local\\minsaitproject\\src\\proyectoMinsait\\Organizador.cs",
+              "RelativeDocumentMoniker": "Organizador.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\REPOSITORY\\Local\\minsaitproject\\src\\proyectoMinsait\\Organizador.cs",
+              "RelativeToolTip": "Organizador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:48:36.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ubicacion.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\REPOSITORY\\Local\\minsaitproject\\src\\proyectoMinsait\\Ubicacion.cs",
+              "RelativeDocumentMoniker": "Ubicacion.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\REPOSITORY\\Local\\minsaitproject\\src\\proyectoMinsait\\Ubicacion.cs",
+              "RelativeToolTip": "Ubicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:48:25.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\REPOSITORY\\Local\\minsaitproject\\src\\proyectoMinsait\\Categoria.cs",
+              "RelativeDocumentMoniker": "Categoria.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\REPOSITORY\\Local\\minsaitproject\\src\\proyectoMinsait\\Categoria.cs",
+              "RelativeToolTip": "Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:48:16.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Eventos.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\REPOSITORY\\Local\\minsaitproject\\src\\proyectoMinsait\\Eventos.cs",
+              "RelativeDocumentMoniker": "Eventos.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\REPOSITORY\\Local\\minsaitproject\\src\\proyectoMinsait\\Eventos.cs",
+              "RelativeToolTip": "Eventos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:47:14.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\REPOSITORY\\Local\\minsaitproject\\src\\proyectoMinsait\\Usuario.cs",
+              "RelativeDocumentMoniker": "Usuario.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\REPOSITORY\\Local\\minsaitproject\\src\\proyectoMinsait\\Usuario.cs",
+              "RelativeToolTip": "Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:47:57.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\REPOSITORY\\Local\\minsaitproject\\src\\proyectoMinsait\\Evento.cs",
+              "RelativeDocumentMoniker": "Evento.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\REPOSITORY\\Local\\minsaitproject\\src\\proyectoMinsait\\Evento.cs",
+              "RelativeToolTip": "Evento.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T10:47:28.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\admin\\Documents\\REPOSITORY\\Local\\minsaitproject\\src\\proyectoMinsait\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
