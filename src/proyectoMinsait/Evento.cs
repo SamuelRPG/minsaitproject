@@ -43,5 +43,33 @@ namespace proyectoMinsait
         public Ubicacion Ubicacion { get { return ubicacion; } }
         public Categoria Categoria { get { return categoria; } }
         public List<Inscripcion> ListaInscripciones { get { return inscripcionesEvento; } }
+
+        public void MostrarInscripciones()
+        {
+            Console.WriteLine($"ID del evento: {this.ID}");
+            Console.WriteLine($"Nombre del evento: {this.Nombre}");
+            Console.WriteLine($"Fecha del evento: {this.FechaEvento.ToString()}");
+            Console.WriteLine($"Ubicación del evento: {this.Ubicacion.Direccion}");
+            if (this.Ubicacion.Esonline) Console.WriteLine($"Modalidad del evento: Online");
+            else Console.WriteLine($"Modalidad del evento: Presencial");
+            Console.WriteLine($"Categoria del evento: {this.Categoria.NomCategoria}");
+            Console.WriteLine("-------PARTICIPANTES INSCRITOS--------");
+            foreach(Inscripcion i in inscripcionesEvento)
+            {
+                Console.WriteLine($"Nombre del usuario: {i.UsuarioInscrito.Nombre}");
+                Console.WriteLine($"Correo del usuario: {i.UsuarioInscrito.Correo}");
+                Console.WriteLine("___________________________________");
+            }
+        }
+
+        public void AgregarInscripcion(Inscripcion i)
+        {
+            inscripcionesEvento.Add(i);
+        }
+
+        public void EliminarInscripcion(Inscripcion i)
+        {
+            inscripcionesEvento.Remove(i);
+        }
     }
 }

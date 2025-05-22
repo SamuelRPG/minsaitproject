@@ -8,13 +8,16 @@ namespace proyectoMinsait
 {
     internal class Inscripcion
     {
-        private Evento evento;
+        private Evento eventoInscrito;
         private Usuario usuarioInscrito;
 
         public Inscripcion(Evento e, Usuario u)
         {
-            this.evento = e;
+            this.eventoInscrito = e;
             this.usuarioInscrito = u;
         }
+
+        public Evento Evento { get { return eventoInscrito; } }
+        public Usuario UsuarioInscrito { get { return usuarioInscrito; } }
     }
 }
