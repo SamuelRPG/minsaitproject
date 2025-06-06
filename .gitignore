@@ -1,0 +1,13 @@
+# .gitignore para Visual Studio
+.vs/
+*.db
+*.suo
+*.shm
+*.wal
+*.vsscc
+*.user
+*.cache
+*.sdf
+*.sln.docstates
+bin/
+obj/
