@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detalles de los eventos</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+
+        section {
+            margin-bottom: 50px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Detalles de los Eventos</h1>
+    <style>
+        .inscribirse-btn {
+            display: inline-block;
+            margin-top: 12px;
+            padding: 10px 24px;
+            background-color: #4CAF50;
+            color: #fff;
+            border: none;
+            border-radius: 6px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: background 0.3s, transform 0.2s, box-shadow 0.2s;
+            box-shadow: 0 2px 6px rgba(0,0,0,0.07);
+        }
+        .inscribirse-btn:hover {
+            background: linear-gradient(90deg, #43e97b 0%, #38f9d7 100%);
+            color: #222;
+            transform: translateY(-2px) scale(1.05);
+            box-shadow: 0 6px 18px rgba(67,233,123,0.15);
+        }
+    </style>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            document.querySelectorAll('section').forEach(function(section) {
+                var btn = document.createElement('button');
+                btn.textContent = 'Inscribirse';
+                btn.className = 'inscribirse-btn';
+                section.appendChild(btn);
+            });
+        });
+    </script>
+    <section id="evento1">
+        <h2>Firma de libros</h2>
+        <p>Una tarde literaria en la emblemática Taberna Garibaldi, donde autores locales e invitados especiales firmarán sus últimas publicaciones. Un encuentro cercano entre escritores y lectores, con la posibilidad de intercambiar impresiones, adquirir libros firmados y disfrutar de música suave y aperitivos ecológicos.</p>
+    </section>
+
+    <section id="evento2">
+        <h2>Colecta de firmas</h2>
+        <p>Actividad organizada por asociaciones medioambientales locales para recoger firmas en apoyo a la protección de los bosques regionales. La campaña busca frenar la deforestación y promover leyes más estrictas de conservación. Se instalarán mesas informativas y se invitará a los ciudadanos a participar activamente por un futuro más verde.</p>
+    </section>
+
+    <section id="evento3">
+        <h2>Feria ecológica</h2>
+        <p>Una feria dedicada al reciclaje, sostenibilidad y vida ecológica. Habrá talleres de reutilización de materiales, charlas educativas, exposiciones de productos sostenibles y una zona de comida ecológica. Ideal para familias, estudiantes y amantes del medio ambiente que quieran aprender y actuar por el planeta.</p>
+    </section>
+
+    <section id="evento4">
+        <h2>Comida en las montañas</h2>
+        <p>Una escapada gastronómica ecológica en plena naturaleza. El evento incluye una caminata ligera y una comida al aire libre con productos orgánicos, servida en mesas con vistas panorámicas a los Pirineos. Un encuentro entre naturaleza, cocina consciente y convivencia respetuosa con el entorno.</p>
+    </section>
+
+    <section id="evento5">
+        <h2>Cine al aire libre</h2>
+        <p>Una noche mágica bajo las estrellas con la proyección de películas independientes y documentales sobre sostenibilidad. Se invita a los asistentes a traer mantas, cojines o sillas plegables. Habrá puestos de comida orgánica y bebidas ecológicas. Ideal para familias y cinéfilos con conciencia ambiental.</p>
+    </section>
+
+    <section id="evento6">
+        <h2>Taller de arte reciclado</h2>
+        <p>Taller creativo para niños, jóvenes y adultos donde aprenderás a transformar materiales reciclados en verdaderas obras de arte. Una actividad divertida, educativa y sostenible que fomenta la creatividad y el respeto por el medio ambiente. Todos los materiales están incluidos y se puede llevar la obra terminada a casa.</p>
+    </section>
+
+</body>
+</html>
